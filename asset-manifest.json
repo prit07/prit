@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prit/static/css/main.79d0dbdf.css",
+    "main.js": "/prit/static/js/main.cd550882.js",
+    "index.html": "/prit/index.html",
+    "main.79d0dbdf.css.map": "/prit/static/css/main.79d0dbdf.css.map",
+    "main.cd550882.js.map": "/prit/static/js/main.cd550882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d0dbdf.css",
+    "static/js/main.cd550882.js"
+  ]
+}
